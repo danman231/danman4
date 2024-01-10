@@ -5,35 +5,35 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>index.html</loc>
-                 <lastmod>2024-01-10T00:36:46+00:00</lastmod>
+                 <loc>https://superfncywebsite.netlify.app/index.html</loc>
+                 <lastmod>2024-01-10T01:01:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>news.html</loc>
-                 <lastmod>2024-01-10T00:36:46+00:00</lastmod>
+                 <loc>https://superfncywebsite.netlify.app/news.html</loc>
+                 <lastmod>2024-01-10T01:01:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>news/1.html</loc>
-                 <lastmod>2024-01-10T00:36:46+00:00</lastmod>
+                 <loc>https://superfncywebsite.netlify.app/news/1.html</loc>
+                 <lastmod>2024-01-10T01:01:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>privacy-policy.html</loc>
-                 <lastmod>2024-01-10T00:36:46+00:00</lastmod>
+                 <loc>https://superfncywebsite.netlify.app/privacy-policy.html</loc>
+                 <lastmod>2024-01-10T01:01:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>feed.xml</loc>
-                 <lastmod>2024-01-10T00:36:46+00:00</lastmod>
+                 <loc>https://superfncywebsite.netlify.app/feed.xml</loc>
+                 <lastmod>2024-01-10T01:01:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.xml</loc>
-                 <lastmod>2024-01-10T00:36:46+00:00</lastmod>
+                 <loc>https://superfncywebsite.netlify.app/sitemap.xml</loc>
+                 <lastmod>2024-01-10T01:01:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>sitemap.html</loc>
-                 <lastmod>2024-01-10T00:36:46+00:00</lastmod>
+                 <loc>https://superfncywebsite.netlify.app/sitemap.html</loc>
+                 <lastmod>2024-01-10T01:01:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>about-us.html</loc>
-                 <lastmod>2024-01-10T00:36:46+00:00</lastmod>
+                 <loc>https://superfncywebsite.netlify.app/about-us.html</loc>
+                 <lastmod>2024-01-10T01:01:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
