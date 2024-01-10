@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: https://superfncywebsite.netlify.app/sitemap.xml
